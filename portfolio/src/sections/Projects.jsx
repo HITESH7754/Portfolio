@@ -22,7 +22,7 @@ const PROJECTS = [
     featured: true,
   },
 {
-    title: ' dummyPortfolio ',
+    title: ' DummyPortfolio ',
     desc: "Responsive student portfolio website (HTML/CSS/JS) for a GEMMA Clubs student — showcasing academics, achievements, projects, certificates, and skills, with dark mode and interactive features.",
     tags: ['React', 'Vite', 'Framer Motion', 'Tailwind CSS'],
     color: '#8B5CF6',
