@@ -21,7 +21,15 @@ const PROJECTS = [
     live: 'https://hitesh-resume-mu.vercel.app/',
     featured: true,
   },
-
+{
+    title: ' dummyPortfolio ',
+    desc: "Responsive student portfolio website (HTML/CSS/JS) for a GEMMA Clubs student — showcasing academics, achievements, projects, certificates, and skills, with dark mode and interactive features.",
+    tags: ['React', 'Vite', 'Framer Motion', 'Tailwind CSS'],
+    color: '#8B5CF6',
+    github: 'https://github.com/HITESH7754',
+    live: 'https://assignment-portfolio-two.vercel.app/',
+    featured: true,
+  },
 ]
 
 function ProjectCard({ project, index }) {
