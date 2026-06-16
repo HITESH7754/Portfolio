@@ -25,7 +25,7 @@ const PROJECTS = [
   title: 'DummyPortfolio',
   desc: 'Responsive student portfolio website (HTML/CSS/JS) for a GEMMA Clubs student — showcasing academics, achievements, projects, certificates, and skills, with dark mode and interactive features.',
   tags: ['HTML', 'CSS', 'JavaScript'],
-  color: '#06B6D4',
+  color: '#8B5CF6',
   github: 'https://github.com/HITESH7754',
   live: 'https://assignment-portfolio-two.vercel.app/',
   featured: true,
