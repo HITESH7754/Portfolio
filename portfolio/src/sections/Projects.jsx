@@ -12,15 +12,7 @@ const PROJECTS = [
   live: 'https://learning-dashboard-psi-five.vercel.app/dashboard',
   featured: true,
 },
-{
-    title: ' DummyPortfolio ',
-    desc: "Responsive student portfolio website (HTML/CSS/JS) for a GEMMA Clubs student — showcasing academics, achievements, projects, certificates, and skills, with dark mode and interactive features.",
-    tags: ['React', 'Vite', 'Framer Motion', 'Tailwind CSS'],
-    color: '#8B5CF6',
-    github: 'https://github.com/HITESH7754',
-    live: 'https://assignment-portfolio-two.vercel.app/',
-    featured: true,
-  },
+
   {
     title: 'Portfolio Website',
     desc: 'This portfolio — built with React + Vite + Framer Motion. Dark mode, particle background, smooth animations, and fully responsive.',
@@ -30,6 +22,15 @@ const PROJECTS = [
     live: 'https://hitesh-resume-mu.vercel.app/',
     featured: true,
   },
+  {
+  title: 'DummyPortfolio',
+  desc: 'Responsive student portfolio website (HTML/CSS/JS) for a GEMMA Clubs student — showcasing academics, achievements, projects, certificates, and skills, with dark mode and interactive features.',
+  tags: ['HTML', 'CSS', 'JavaScript'],
+  color: '#06B6D4', // Cyan
+  github: 'https://github.com/HITESH7754',
+  live: 'https://assignment-portfolio-two.vercel.app/',
+  featured: true,
+},
 
 ]
 
